@@ -1,0 +1,8 @@
+D:\SoftUni\Fundamental level\OOP\6.Други типове\Домашни\Homework Other Types in OOP\4. Generic List Version\bin\Debug\_4.Generic_List_Version.exe.config
+D:\SoftUni\Fundamental level\OOP\6.Други типове\Домашни\Homework Other Types in OOP\4. Generic List Version\bin\Debug\_4.Generic_List_Version.exe
+D:\SoftUni\Fundamental level\OOP\6.Други типове\Домашни\Homework Other Types in OOP\4. Generic List Version\bin\Debug\_4.Generic_List_Version.pdb
+D:\SoftUni\Fundamental level\OOP\6.Други типове\Домашни\Homework Other Types in OOP\4. Generic List Version\bin\Debug\_3.Generic_List.exe
+D:\SoftUni\Fundamental level\OOP\6.Други типове\Домашни\Homework Other Types in OOP\4. Generic List Version\bin\Debug\_3.Generic_List.pdb
+D:\SoftUni\Fundamental level\OOP\6.Други типове\Домашни\Homework Other Types in OOP\4. Generic List Version\obj\Debug\4. Generic List Version.csprojResolveAssemblyReference.cache
+D:\SoftUni\Fundamental level\OOP\6.Други типове\Домашни\Homework Other Types in OOP\4. Generic List Version\obj\Debug\_4.Generic_List_Version.exe
+D:\SoftUni\Fundamental level\OOP\6.Други типове\Домашни\Homework Other Types in OOP\4. Generic List Version\obj\Debug\_4.Generic_List_Version.pdb

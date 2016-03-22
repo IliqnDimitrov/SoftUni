@@ -1,0 +1,12 @@
+G:\SoftUni\HighQualityCode_December\10.Code Tuning and Optimization\HomeWork\BasicArithmeticOperations\bin\Debug\BasicArithmeticOperations.exe.config
+G:\SoftUni\HighQualityCode_December\10.Code Tuning and Optimization\HomeWork\BasicArithmeticOperations\bin\Debug\BasicArithmeticOperations.exe
+G:\SoftUni\HighQualityCode_December\10.Code Tuning and Optimization\HomeWork\BasicArithmeticOperations\bin\Debug\BasicArithmeticOperations.pdb
+G:\SoftUni\HighQualityCode_December\10.Code Tuning and Optimization\HomeWork\BasicArithmeticOperations\obj\Debug\BasicArithmeticOperations.csprojResolveAssemblyReference.cache
+G:\SoftUni\HighQualityCode_December\10.Code Tuning and Optimization\HomeWork\BasicArithmeticOperations\obj\Debug\BasicArithmeticOperations.exe
+G:\SoftUni\HighQualityCode_December\10.Code Tuning and Optimization\HomeWork\BasicArithmeticOperations\obj\Debug\BasicArithmeticOperations.pdb
+C:\Users\m3choka\Downloads\HomeWork\BasicArithmeticOperations\bin\Debug\BasicArithmeticOperations.exe.config
+C:\Users\m3choka\Downloads\HomeWork\BasicArithmeticOperations\obj\Debug\BasicArithmeticOperations.exe
+C:\Users\m3choka\Downloads\HomeWork\BasicArithmeticOperations\obj\Debug\BasicArithmeticOperations.pdb
+C:\Users\m3choka\Downloads\HomeWork\BasicArithmeticOperations\bin\Debug\BasicArithmeticOperations.exe
+C:\Users\m3choka\Downloads\HomeWork\BasicArithmeticOperations\bin\Debug\BasicArithmeticOperations.pdb
+C:\Users\m3choka\Downloads\HomeWork\BasicArithmeticOperations\obj\Debug\BasicArithmeticOperations.csprojResolveAssemblyReference.cache

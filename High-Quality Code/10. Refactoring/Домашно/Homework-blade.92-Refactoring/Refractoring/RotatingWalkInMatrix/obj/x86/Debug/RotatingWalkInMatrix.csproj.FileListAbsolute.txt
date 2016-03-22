@@ -1,0 +1,15 @@
+C:\Users\Alex\Downloads\13. Refactoring-Homework\Matrica\bin\Debug\RotatingWalkInMatrix.exe
+C:\Users\Alex\Downloads\13. Refactoring-Homework\Matrica\bin\Debug\RotatingWalkInMatrix.pdb
+C:\Users\Alex\Downloads\13. Refactoring-Homework\Matrica\obj\x86\Debug\RotatingWalkInMatrix.exe
+C:\Users\Alex\Downloads\13. Refactoring-Homework\Matrica\obj\x86\Debug\RotatingWalkInMatrix.pdb
+C:\Users\Alex\Downloads\13. Refactoring-Homework\RotatingWalkInMatrix\bin\Debug\RotatingWalkInMatrix.exe
+C:\Users\Alex\Downloads\13. Refactoring-Homework\RotatingWalkInMatrix\bin\Debug\RotatingWalkInMatrix.pdb
+C:\Users\Alex\Downloads\13. Refactoring-Homework\RotatingWalkInMatrix\obj\x86\Debug\RotatingWalkInMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Downloads\13. Refactoring-Homework\RotatingWalkInMatrix\obj\x86\Debug\RotatingWalkInMatrix.exe
+C:\Users\Alex\Downloads\13. Refactoring-Homework\RotatingWalkInMatrix\obj\x86\Debug\RotatingWalkInMatrix.pdb
+D:\Programming\SoftUny-HW\HighQualityCode\Refractoring\RotatingWalkInMatrix\obj\x86\Debug\RotatingWalkInMatrix.exe
+D:\Programming\SoftUny-HW\HighQualityCode\Refractoring\RotatingWalkInMatrix\obj\x86\Debug\RotatingWalkInMatrix.pdb
+D:\Programming\SoftUny-HW\HighQualityCode\Refractoring\RotatingWalkInMatrix\bin\Debug\RotatingWalkInMatrix.exe
+D:\Programming\SoftUny-HW\HighQualityCode\Refractoring\RotatingWalkInMatrix\bin\Debug\RotatingWalkInMatrix.pdb
+C:\Users\m3choka\Downloads\SoftUniHigh Quality  donth111\SoftUny-HW-master\HighQualityCode\Refractoring\RotatingWalkInMatrix\obj\x86\Debug\RotatingWalkInMatrix.exe
+C:\Users\m3choka\Downloads\SoftUniHigh Quality  donth111\SoftUny-HW-master\HighQualityCode\Refractoring\RotatingWalkInMatrix\obj\x86\Debug\RotatingWalkInMatrix.pdb

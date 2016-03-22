@@ -1,0 +1,15 @@
+D:\SoftUni\Fundamental level\Advanced C#\7.Functional Programming\Домашно\Functional Programming Homework\3. Students by First and Last Name\bin\Debug\_3.Students_by_First_and_Last_Name.exe.config
+D:\SoftUni\Fundamental level\Advanced C#\7.Functional Programming\Домашно\Functional Programming Homework\3. Students by First and Last Name\bin\Debug\_3.Students_by_First_and_Last_Name.exe
+D:\SoftUni\Fundamental level\Advanced C#\7.Functional Programming\Домашно\Functional Programming Homework\3. Students by First and Last Name\bin\Debug\_3.Students_by_First_and_Last_Name.pdb
+D:\SoftUni\Fundamental level\Advanced C#\7.Functional Programming\Домашно\Functional Programming Homework\3. Students by First and Last Name\bin\Debug\_1.Class_Student.exe
+D:\SoftUni\Fundamental level\Advanced C#\7.Functional Programming\Домашно\Functional Programming Homework\3. Students by First and Last Name\bin\Debug\_1.Class_Student.pdb
+D:\SoftUni\Fundamental level\Advanced C#\7.Functional Programming\Домашно\Functional Programming Homework\3. Students by First and Last Name\obj\Debug\_3.Students_by_First_and_Last_Name.exe
+D:\SoftUni\Fundamental level\Advanced C#\7.Functional Programming\Домашно\Functional Programming Homework\3. Students by First and Last Name\obj\Debug\_3.Students_by_First_and_Last_Name.pdb
+D:\SoftUni\Fundamental level\Advanced C#\6.Functional Programming\Домашно\Functional Programming Homework\3. Students by First and Last Name\bin\Debug\_3.Students_by_First_and_Last_Name.exe.config
+D:\SoftUni\Fundamental level\Advanced C#\6.Functional Programming\Домашно\Functional Programming Homework\3. Students by First and Last Name\obj\Debug\_3.Students_by_First_and_Last_Name.exe
+D:\SoftUni\Fundamental level\Advanced C#\6.Functional Programming\Домашно\Functional Programming Homework\3. Students by First and Last Name\obj\Debug\_3.Students_by_First_and_Last_Name.pdb
+D:\SoftUni\Fundamental level\Advanced C#\6.Functional Programming\Домашно\Functional Programming Homework\3. Students by First and Last Name\bin\Debug\_3.Students_by_First_and_Last_Name.exe
+D:\SoftUni\Fundamental level\Advanced C#\6.Functional Programming\Домашно\Functional Programming Homework\3. Students by First and Last Name\bin\Debug\_3.Students_by_First_and_Last_Name.pdb
+D:\SoftUni\Fundamental level\Advanced C#\6.Functional Programming\Домашно\Functional Programming Homework\3. Students by First and Last Name\bin\Debug\_1.Class_Student.exe
+D:\SoftUni\Fundamental level\Advanced C#\6.Functional Programming\Домашно\Functional Programming Homework\3. Students by First and Last Name\bin\Debug\_1.Class_Student.pdb
+D:\SoftUni\Fundamental level\Advanced C#\6.Functional Programming\Домашно\Functional Programming Homework\3. Students by First and Last Name\obj\Debug\3. Students by First and Last Name.csprojResolveAssemblyReference.cache

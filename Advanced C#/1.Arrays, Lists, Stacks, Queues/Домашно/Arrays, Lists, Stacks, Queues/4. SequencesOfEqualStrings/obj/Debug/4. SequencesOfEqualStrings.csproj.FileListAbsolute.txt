@@ -1,0 +1,5 @@
+D:\SoftUni\Fundamental level\Advanced C#\1.Arrays, Lists, Stacks, Queues\Домашно\Arrays, Lists, Stacks, Queues\4. SequencesOfEqualStrings\bin\Debug\_4.SequencesOfEqualStrings.exe.config
+D:\SoftUni\Fundamental level\Advanced C#\1.Arrays, Lists, Stacks, Queues\Домашно\Arrays, Lists, Stacks, Queues\4. SequencesOfEqualStrings\bin\Debug\_4.SequencesOfEqualStrings.exe
+D:\SoftUni\Fundamental level\Advanced C#\1.Arrays, Lists, Stacks, Queues\Домашно\Arrays, Lists, Stacks, Queues\4. SequencesOfEqualStrings\bin\Debug\_4.SequencesOfEqualStrings.pdb
+D:\SoftUni\Fundamental level\Advanced C#\1.Arrays, Lists, Stacks, Queues\Домашно\Arrays, Lists, Stacks, Queues\4. SequencesOfEqualStrings\obj\Debug\_4.SequencesOfEqualStrings.exe
+D:\SoftUni\Fundamental level\Advanced C#\1.Arrays, Lists, Stacks, Queues\Домашно\Arrays, Lists, Stacks, Queues\4. SequencesOfEqualStrings\obj\Debug\_4.SequencesOfEqualStrings.pdb

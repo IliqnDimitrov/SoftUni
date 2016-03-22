@@ -1,0 +1,6 @@
+C:\Users\blade\Downloads\02. Naming-Identifiers-Preliminary-Exercise\Exercise1\Exercise1\bin\Debug\Exercise1.exe.config
+C:\Users\blade\Downloads\02. Naming-Identifiers-Preliminary-Exercise\Exercise1\Exercise1\obj\Debug\Exercise1.csprojResolveAssemblyReference.cache
+C:\Users\blade\Downloads\02. Naming-Identifiers-Preliminary-Exercise\Exercise1\Exercise1\bin\Debug\Exercise1.exe
+C:\Users\blade\Downloads\02. Naming-Identifiers-Preliminary-Exercise\Exercise1\Exercise1\bin\Debug\Exercise1.pdb
+C:\Users\blade\Downloads\02. Naming-Identifiers-Preliminary-Exercise\Exercise1\Exercise1\obj\Debug\Exercise1.exe
+C:\Users\blade\Downloads\02. Naming-Identifiers-Preliminary-Exercise\Exercise1\Exercise1\obj\Debug\Exercise1.pdb

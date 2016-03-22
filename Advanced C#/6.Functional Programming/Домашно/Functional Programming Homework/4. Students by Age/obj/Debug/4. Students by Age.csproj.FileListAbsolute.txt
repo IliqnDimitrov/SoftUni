@@ -1,0 +1,14 @@
+D:\SoftUni\Fundamental level\Advanced C#\7.Functional Programming\Домашно\Functional Programming Homework\4. Students by Age\bin\Debug\_4.Students_by_Age.exe.config
+D:\SoftUni\Fundamental level\Advanced C#\7.Functional Programming\Домашно\Functional Programming Homework\4. Students by Age\bin\Debug\_4.Students_by_Age.exe
+D:\SoftUni\Fundamental level\Advanced C#\7.Functional Programming\Домашно\Functional Programming Homework\4. Students by Age\bin\Debug\_4.Students_by_Age.pdb
+D:\SoftUni\Fundamental level\Advanced C#\7.Functional Programming\Домашно\Functional Programming Homework\4. Students by Age\bin\Debug\_1.Class_Student.exe
+D:\SoftUni\Fundamental level\Advanced C#\7.Functional Programming\Домашно\Functional Programming Homework\4. Students by Age\bin\Debug\_1.Class_Student.pdb
+D:\SoftUni\Fundamental level\Advanced C#\7.Functional Programming\Домашно\Functional Programming Homework\4. Students by Age\obj\Debug\_4.Students_by_Age.exe
+D:\SoftUni\Fundamental level\Advanced C#\7.Functional Programming\Домашно\Functional Programming Homework\4. Students by Age\obj\Debug\_4.Students_by_Age.pdb
+D:\SoftUni\Fundamental level\Advanced C#\6.Functional Programming\Домашно\Functional Programming Homework\4. Students by Age\bin\Debug\_4.Students_by_Age.exe.config
+D:\SoftUni\Fundamental level\Advanced C#\6.Functional Programming\Домашно\Functional Programming Homework\4. Students by Age\obj\Debug\_4.Students_by_Age.exe
+D:\SoftUni\Fundamental level\Advanced C#\6.Functional Programming\Домашно\Functional Programming Homework\4. Students by Age\obj\Debug\_4.Students_by_Age.pdb
+D:\SoftUni\Fundamental level\Advanced C#\6.Functional Programming\Домашно\Functional Programming Homework\4. Students by Age\bin\Debug\_4.Students_by_Age.exe
+D:\SoftUni\Fundamental level\Advanced C#\6.Functional Programming\Домашно\Functional Programming Homework\4. Students by Age\bin\Debug\_4.Students_by_Age.pdb
+D:\SoftUni\Fundamental level\Advanced C#\6.Functional Programming\Домашно\Functional Programming Homework\4. Students by Age\bin\Debug\_1.Class_Student.exe
+D:\SoftUni\Fundamental level\Advanced C#\6.Functional Programming\Домашно\Functional Programming Homework\4. Students by Age\bin\Debug\_1.Class_Student.pdb

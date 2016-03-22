@@ -1,0 +1,5 @@
+D:\SoftUni\Fundamental level\Advanced C#\4. Strings And Text Processing\Домашно\Strings and Text Processing\6. Palindromes\bin\Debug\_6.Palindromes.exe.config
+D:\SoftUni\Fundamental level\Advanced C#\4. Strings And Text Processing\Домашно\Strings and Text Processing\6. Palindromes\bin\Debug\_6.Palindromes.exe
+D:\SoftUni\Fundamental level\Advanced C#\4. Strings And Text Processing\Домашно\Strings and Text Processing\6. Palindromes\bin\Debug\_6.Palindromes.pdb
+D:\SoftUni\Fundamental level\Advanced C#\4. Strings And Text Processing\Домашно\Strings and Text Processing\6. Palindromes\obj\Debug\_6.Palindromes.exe
+D:\SoftUni\Fundamental level\Advanced C#\4. Strings And Text Processing\Домашно\Strings and Text Processing\6. Palindromes\obj\Debug\_6.Palindromes.pdb

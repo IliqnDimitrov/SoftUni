@@ -1,0 +1,8 @@
+D:\SoftUni\Fundamental level\OOP\2.Статични членове и пространства от имена\Домашни\Static Members and Namespaces\2. Distance Calculator\bin\Debug\_2.Distance_Calculator.exe.config
+D:\SoftUni\Fundamental level\OOP\2.Статични членове и пространства от имена\Домашни\Static Members and Namespaces\2. Distance Calculator\bin\Debug\_2.Distance_Calculator.exe
+D:\SoftUni\Fundamental level\OOP\2.Статични членове и пространства от имена\Домашни\Static Members and Namespaces\2. Distance Calculator\bin\Debug\_2.Distance_Calculator.pdb
+D:\SoftUni\Fundamental level\OOP\2.Статични членове и пространства от имена\Домашни\Static Members and Namespaces\2. Distance Calculator\bin\Debug\_1.Point3D.exe
+D:\SoftUni\Fundamental level\OOP\2.Статични членове и пространства от имена\Домашни\Static Members and Namespaces\2. Distance Calculator\bin\Debug\_1.Point3D.pdb
+D:\SoftUni\Fundamental level\OOP\2.Статични членове и пространства от имена\Домашни\Static Members and Namespaces\2. Distance Calculator\obj\Debug\2. Distance Calculator.csprojResolveAssemblyReference.cache
+D:\SoftUni\Fundamental level\OOP\2.Статични членове и пространства от имена\Домашни\Static Members and Namespaces\2. Distance Calculator\obj\Debug\_2.Distance_Calculator.exe
+D:\SoftUni\Fundamental level\OOP\2.Статични членове и пространства от имена\Домашни\Static Members and Namespaces\2. Distance Calculator\obj\Debug\_2.Distance_Calculator.pdb

@@ -1,0 +1,2 @@
+D:\SoftUni\Fundamental level\High-Quality Code\2. Code Formatting\Домашно\Code Formatting\1. Reformat Code\bin\Debug\_1.Reformat_Code.exe.config
+D:\SoftUni\Fundamental level\High-Quality Code\2. Code Formatting\Домашно\Code Formatting\1. Reformat Code\obj\Debug\1. Reformat Code.csprojResolveAssemblyReference.cache

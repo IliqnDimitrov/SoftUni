@@ -1,0 +1,6 @@
+C:\Users\blade\Desktop\Lab15.02\4. Linear and Binary Search\bin\Debug\_4.Linear_and_Binary_Search.exe.config
+C:\Users\blade\Desktop\Lab15.02\4. Linear and Binary Search\obj\Debug\4. Linear and Binary Search.csprojResolveAssemblyReference.cache
+C:\Users\blade\Desktop\Lab15.02\4. Linear and Binary Search\bin\Debug\_4.Linear_and_Binary_Search.exe
+C:\Users\blade\Desktop\Lab15.02\4. Linear and Binary Search\bin\Debug\_4.Linear_and_Binary_Search.pdb
+C:\Users\blade\Desktop\Lab15.02\4. Linear and Binary Search\obj\Debug\_4.Linear_and_Binary_Search.exe
+C:\Users\blade\Desktop\Lab15.02\4. Linear and Binary Search\obj\Debug\_4.Linear_and_Binary_Search.pdb

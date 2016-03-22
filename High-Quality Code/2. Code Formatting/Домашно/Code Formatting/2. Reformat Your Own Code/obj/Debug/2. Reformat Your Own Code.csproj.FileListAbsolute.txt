@@ -1,0 +1,6 @@
+D:\SoftUni\Fundamental level\High-Quality Code\2. Code Formatting\Домашно\Code Formatting\2. Reformat Your Own Code\bin\Debug\_2.Reformat_Your_Own_Code.exe.config
+D:\SoftUni\Fundamental level\High-Quality Code\2. Code Formatting\Домашно\Code Formatting\2. Reformat Your Own Code\bin\Debug\_2.Reformat_Your_Own_Code.exe
+D:\SoftUni\Fundamental level\High-Quality Code\2. Code Formatting\Домашно\Code Formatting\2. Reformat Your Own Code\bin\Debug\_2.Reformat_Your_Own_Code.pdb
+D:\SoftUni\Fundamental level\High-Quality Code\2. Code Formatting\Домашно\Code Formatting\2. Reformat Your Own Code\obj\Debug\2. Reformat Your Own Code.csprojResolveAssemblyReference.cache
+D:\SoftUni\Fundamental level\High-Quality Code\2. Code Formatting\Домашно\Code Formatting\2. Reformat Your Own Code\obj\Debug\_2.Reformat_Your_Own_Code.exe
+D:\SoftUni\Fundamental level\High-Quality Code\2. Code Formatting\Домашно\Code Formatting\2. Reformat Your Own Code\obj\Debug\_2.Reformat_Your_Own_Code.pdb

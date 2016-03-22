@@ -1,0 +1,6 @@
+C:\Users\blade\Desktop\AdvanceCsharpExamRetake\02.Problem\bin\Debug\02.Problem.exe.config
+C:\Users\blade\Desktop\AdvanceCsharpExamRetake\02.Problem\bin\Debug\02.Problem.exe
+C:\Users\blade\Desktop\AdvanceCsharpExamRetake\02.Problem\bin\Debug\02.Problem.pdb
+C:\Users\blade\Desktop\AdvanceCsharpExamRetake\02.Problem\obj\Debug\02.Problem.exe
+C:\Users\blade\Desktop\AdvanceCsharpExamRetake\02.Problem\obj\Debug\02.Problem.pdb
+C:\Users\blade\Desktop\AdvanceCsharpExamRetake\02.Problem\obj\Debug\02.Problem.csprojResolveAssemblyReference.cache

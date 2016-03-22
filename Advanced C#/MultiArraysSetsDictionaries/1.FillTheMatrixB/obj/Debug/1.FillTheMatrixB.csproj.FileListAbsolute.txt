@@ -1,0 +1,5 @@
+D:\SoftUni\Fundamental level\Advanced C#\2.MultidimensionalArrays, Sets, Dictionaries\Домашно\MultiArraysSetsDictionaries\1.FillTheMatrixB\bin\Debug\1.FillTheMatrixB.exe.config
+D:\SoftUni\Fundamental level\Advanced C#\2.MultidimensionalArrays, Sets, Dictionaries\Домашно\MultiArraysSetsDictionaries\1.FillTheMatrixB\bin\Debug\1.FillTheMatrixB.exe
+D:\SoftUni\Fundamental level\Advanced C#\2.MultidimensionalArrays, Sets, Dictionaries\Домашно\MultiArraysSetsDictionaries\1.FillTheMatrixB\bin\Debug\1.FillTheMatrixB.pdb
+D:\SoftUni\Fundamental level\Advanced C#\2.MultidimensionalArrays, Sets, Dictionaries\Домашно\MultiArraysSetsDictionaries\1.FillTheMatrixB\obj\Debug\1.FillTheMatrixB.exe
+D:\SoftUni\Fundamental level\Advanced C#\2.MultidimensionalArrays, Sets, Dictionaries\Домашно\MultiArraysSetsDictionaries\1.FillTheMatrixB\obj\Debug\1.FillTheMatrixB.pdb

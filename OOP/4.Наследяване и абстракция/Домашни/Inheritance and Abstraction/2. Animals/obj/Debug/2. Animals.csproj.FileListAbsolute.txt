@@ -1,0 +1,6 @@
+D:\SoftUni\Fundamental level\OOP\4.Наследяване и абстракция\Домашни\Inheritance and Abstraction\2. Animals\bin\Debug\_2.Animals.exe.config
+D:\SoftUni\Fundamental level\OOP\4.Наследяване и абстракция\Домашни\Inheritance and Abstraction\2. Animals\obj\Debug\2. Animals.csprojResolveAssemblyReference.cache
+D:\SoftUni\Fundamental level\OOP\4.Наследяване и абстракция\Домашни\Inheritance and Abstraction\2. Animals\bin\Debug\_2.Animals.exe
+D:\SoftUni\Fundamental level\OOP\4.Наследяване и абстракция\Домашни\Inheritance and Abstraction\2. Animals\bin\Debug\_2.Animals.pdb
+D:\SoftUni\Fundamental level\OOP\4.Наследяване и абстракция\Домашни\Inheritance and Abstraction\2. Animals\obj\Debug\_2.Animals.exe
+D:\SoftUni\Fundamental level\OOP\4.Наследяване и абстракция\Домашни\Inheritance and Abstraction\2. Animals\obj\Debug\_2.Animals.pdb

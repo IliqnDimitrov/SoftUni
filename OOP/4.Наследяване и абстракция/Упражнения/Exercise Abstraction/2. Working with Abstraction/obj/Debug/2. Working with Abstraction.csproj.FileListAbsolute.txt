@@ -1,0 +1,6 @@
+D:\SoftUni\Fundamental level\OOP\4.Наследяване и абстракция\Упражнения\Exercise Abstraction\2. Working with Abstraction\bin\Debug\_2.Working_with_Abstraction.exe.config
+D:\SoftUni\Fundamental level\OOP\4.Наследяване и абстракция\Упражнения\Exercise Abstraction\2. Working with Abstraction\obj\Debug\2. Working with Abstraction.csprojResolveAssemblyReference.cache
+D:\SoftUni\Fundamental level\OOP\4.Наследяване и абстракция\Упражнения\Exercise Abstraction\2. Working with Abstraction\bin\Debug\_2.Working_with_Abstraction.exe
+D:\SoftUni\Fundamental level\OOP\4.Наследяване и абстракция\Упражнения\Exercise Abstraction\2. Working with Abstraction\bin\Debug\_2.Working_with_Abstraction.pdb
+D:\SoftUni\Fundamental level\OOP\4.Наследяване и абстракция\Упражнения\Exercise Abstraction\2. Working with Abstraction\obj\Debug\_2.Working_with_Abstraction.exe
+D:\SoftUni\Fundamental level\OOP\4.Наследяване и абстракция\Упражнения\Exercise Abstraction\2. Working with Abstraction\obj\Debug\_2.Working_with_Abstraction.pdb

@@ -1,0 +1,6 @@
+D:\SoftUni\Fundamental level\OOP\5.Капсулация и полиморфизъм\Домашни\Encapsulation and Polymorphism\2. Bank of Kurtovo Konare\bin\Debug\_2.Bank_of_Kurtovo_Konare.exe.config
+D:\SoftUni\Fundamental level\OOP\5.Капсулация и полиморфизъм\Домашни\Encapsulation and Polymorphism\2. Bank of Kurtovo Konare\obj\Debug\2. Bank of Kurtovo Konare.csprojResolveAssemblyReference.cache
+D:\SoftUni\Fundamental level\OOP\5.Капсулация и полиморфизъм\Домашни\Encapsulation and Polymorphism\2. Bank of Kurtovo Konare\bin\Debug\_2.Bank_of_Kurtovo_Konare.exe
+D:\SoftUni\Fundamental level\OOP\5.Капсулация и полиморфизъм\Домашни\Encapsulation and Polymorphism\2. Bank of Kurtovo Konare\bin\Debug\_2.Bank_of_Kurtovo_Konare.pdb
+D:\SoftUni\Fundamental level\OOP\5.Капсулация и полиморфизъм\Домашни\Encapsulation and Polymorphism\2. Bank of Kurtovo Konare\obj\Debug\_2.Bank_of_Kurtovo_Konare.exe
+D:\SoftUni\Fundamental level\OOP\5.Капсулация и полиморфизъм\Домашни\Encapsulation and Polymorphism\2. Bank of Kurtovo Konare\obj\Debug\_2.Bank_of_Kurtovo_Konare.pdb

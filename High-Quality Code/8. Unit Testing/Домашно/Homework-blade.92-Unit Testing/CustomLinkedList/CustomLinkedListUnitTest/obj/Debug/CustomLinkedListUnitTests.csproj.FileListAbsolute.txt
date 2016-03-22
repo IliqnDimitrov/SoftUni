@@ -1,0 +1,14 @@
+C:\Users\blade\Downloads\CustomLinkedList\CustomLinkedList\CustomLinkedListUnitTest\bin\Debug\CustomLinkedListUnitTest.dll
+C:\Users\blade\Downloads\CustomLinkedList\CustomLinkedList\CustomLinkedListUnitTest\bin\Debug\CustomLinkedListUnitTest.pdb
+C:\Users\blade\Downloads\CustomLinkedList\CustomLinkedList\CustomLinkedListUnitTest\bin\Debug\CustomLinkedList.dll
+C:\Users\blade\Downloads\CustomLinkedList\CustomLinkedList\CustomLinkedListUnitTest\bin\Debug\CustomLinkedList.pdb
+C:\Users\blade\Downloads\CustomLinkedList\CustomLinkedList\CustomLinkedListUnitTest\obj\Debug\CustomLinkedListUnitTests.csprojResolveAssemblyReference.cache
+C:\Users\blade\Downloads\CustomLinkedList\CustomLinkedList\CustomLinkedListUnitTest\obj\Debug\CustomLinkedListUnitTest.dll
+C:\Users\blade\Downloads\CustomLinkedList\CustomLinkedList\CustomLinkedListUnitTest\obj\Debug\CustomLinkedListUnitTest.pdb
+D:\SoftUni\Fundamental level\High-Quality Code\8. Unit Testing\Домашно\Homework-blade.92-Unit Testing\CustomLinkedList\CustomLinkedListUnitTest\bin\Debug\CustomLinkedListUnitTest.dll
+D:\SoftUni\Fundamental level\High-Quality Code\8. Unit Testing\Домашно\Homework-blade.92-Unit Testing\CustomLinkedList\CustomLinkedListUnitTest\bin\Debug\CustomLinkedListUnitTest.pdb
+D:\SoftUni\Fundamental level\High-Quality Code\8. Unit Testing\Домашно\Homework-blade.92-Unit Testing\CustomLinkedList\CustomLinkedListUnitTest\bin\Debug\CustomLinkedList.dll
+D:\SoftUni\Fundamental level\High-Quality Code\8. Unit Testing\Домашно\Homework-blade.92-Unit Testing\CustomLinkedList\CustomLinkedListUnitTest\bin\Debug\CustomLinkedList.pdb
+D:\SoftUni\Fundamental level\High-Quality Code\8. Unit Testing\Домашно\Homework-blade.92-Unit Testing\CustomLinkedList\CustomLinkedListUnitTest\obj\Debug\CustomLinkedListUnitTests.csprojResolveAssemblyReference.cache
+D:\SoftUni\Fundamental level\High-Quality Code\8. Unit Testing\Домашно\Homework-blade.92-Unit Testing\CustomLinkedList\CustomLinkedListUnitTest\obj\Debug\CustomLinkedListUnitTest.dll
+D:\SoftUni\Fundamental level\High-Quality Code\8. Unit Testing\Домашно\Homework-blade.92-Unit Testing\CustomLinkedList\CustomLinkedListUnitTest\obj\Debug\CustomLinkedListUnitTest.pdb

@@ -1,0 +1,6 @@
+D:\SoftUni\Fundamental level\OOP\2.Статични членове и пространства от имена\Упражнения\Exercise Namespaces\1. Structure of an RPG Game\bin\Debug\_1.Structure_of_an_RPG_Game.exe.config
+D:\SoftUni\Fundamental level\OOP\2.Статични членове и пространства от имена\Упражнения\Exercise Namespaces\1. Structure of an RPG Game\bin\Debug\_1.Structure_of_an_RPG_Game.exe
+D:\SoftUni\Fundamental level\OOP\2.Статични членове и пространства от имена\Упражнения\Exercise Namespaces\1. Structure of an RPG Game\bin\Debug\_1.Structure_of_an_RPG_Game.pdb
+D:\SoftUni\Fundamental level\OOP\2.Статични членове и пространства от имена\Упражнения\Exercise Namespaces\1. Structure of an RPG Game\obj\Debug\1. Structure of an RPG Gam.csprojResolveAssemblyReference.cache
+D:\SoftUni\Fundamental level\OOP\2.Статични членове и пространства от имена\Упражнения\Exercise Namespaces\1. Structure of an RPG Game\obj\Debug\_1.Structure_of_an_RPG_Game.exe
+D:\SoftUni\Fundamental level\OOP\2.Статични членове и пространства от имена\Упражнения\Exercise Namespaces\1. Structure of an RPG Game\obj\Debug\_1.Structure_of_an_RPG_Game.pdb

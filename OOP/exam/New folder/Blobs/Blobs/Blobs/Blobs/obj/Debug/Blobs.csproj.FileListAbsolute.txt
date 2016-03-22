@@ -1,0 +1,8 @@
+C:\Users\blade\Desktop\Blobs\Blobs\Blobs\Blobs\bin\Debug\Blobs.exe.config
+C:\Users\blade\Desktop\Blobs\Blobs\Blobs\Blobs\bin\Debug\Blobs.exe
+C:\Users\blade\Desktop\Blobs\Blobs\Blobs\Blobs\bin\Debug\Blobs.pdb
+C:\Users\blade\Desktop\Blobs\Blobs\Blobs\Blobs\obj\Debug\Blobs.csprojResolveAssemblyReference.cache
+C:\Users\blade\Desktop\Blobs\Blobs\Blobs\Blobs\obj\Debug\Blobs.exe
+C:\Users\blade\Desktop\Blobs\Blobs\Blobs\Blobs\obj\Debug\Blobs.pdb
+C:\Users\blade\Desktop\Blobs\Blobs\Blobs\Blobs\bin\Debug\Blobs.exe.CodeAnalysisLog.xml
+C:\Users\blade\Desktop\Blobs\Blobs\Blobs\Blobs\bin\Debug\Blobs.exe.lastcodeanalysissucceeded

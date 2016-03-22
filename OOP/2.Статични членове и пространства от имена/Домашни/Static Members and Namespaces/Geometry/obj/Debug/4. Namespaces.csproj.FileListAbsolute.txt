@@ -1,0 +1,1 @@
+D:\SoftUni\Fundamental level\OOP\2.Статични членове и пространства от имена\Домашни\Static Members and Namespaces\Geometry\bin\Debug\Geometry.exe.config

@@ -1,0 +1,10 @@
+C:\Users\Jamal\Desktop\Trash\Design Patterns\Creational\AbstactFactory\bin\Debug\AbstractFactory.exe.config
+C:\Users\blade\Desktop\18. Design-Patterns-Demo\18. Design-Patterns-Demo\Design Patterns\Creational\AbstactFactory\bin\Debug\AbstractFactory.exe.config
+C:\Users\blade\Desktop\18. Design-Patterns-Demo\18. Design-Patterns-Demo\Design Patterns\Creational\AbstactFactory\bin\Debug\AbstractFactory.exe
+C:\Users\blade\Desktop\18. Design-Patterns-Demo\18. Design-Patterns-Demo\Design Patterns\Creational\AbstactFactory\bin\Debug\AbstractFactory.pdb
+C:\Users\blade\Desktop\18. Design-Patterns-Demo\18. Design-Patterns-Demo\Design Patterns\Creational\AbstactFactory\bin\Debug\Microsoft.Owin.dll
+C:\Users\blade\Desktop\18. Design-Patterns-Demo\18. Design-Patterns-Demo\Design Patterns\Creational\AbstactFactory\bin\Debug\Owin.dll
+C:\Users\blade\Desktop\18. Design-Patterns-Demo\18. Design-Patterns-Demo\Design Patterns\Creational\AbstactFactory\bin\Debug\Microsoft.Owin.xml
+C:\Users\blade\Desktop\18. Design-Patterns-Demo\18. Design-Patterns-Demo\Design Patterns\Creational\AbstactFactory\obj\Debug\4. AbstractFactory.csprojResolveAssemblyReference.cache
+C:\Users\blade\Desktop\18. Design-Patterns-Demo\18. Design-Patterns-Demo\Design Patterns\Creational\AbstactFactory\obj\Debug\AbstractFactory.exe
+C:\Users\blade\Desktop\18. Design-Patterns-Demo\18. Design-Patterns-Demo\Design Patterns\Creational\AbstactFactory\obj\Debug\AbstractFactory.pdb

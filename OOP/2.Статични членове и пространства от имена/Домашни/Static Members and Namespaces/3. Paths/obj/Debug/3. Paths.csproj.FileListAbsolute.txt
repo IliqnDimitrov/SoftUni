@@ -1,0 +1,8 @@
+D:\SoftUni\Fundamental level\OOP\2.Статични членове и пространства от имена\Домашни\Static Members and Namespaces\3. Paths\bin\Debug\_3.Paths.exe.config
+D:\SoftUni\Fundamental level\OOP\2.Статични членове и пространства от имена\Домашни\Static Members and Namespaces\3. Paths\obj\Debug\3. Paths.csprojResolveAssemblyReference.cache
+D:\SoftUni\Fundamental level\OOP\2.Статични членове и пространства от имена\Домашни\Static Members and Namespaces\3. Paths\bin\Debug\_3.Paths.exe
+D:\SoftUni\Fundamental level\OOP\2.Статични членове и пространства от имена\Домашни\Static Members and Namespaces\3. Paths\bin\Debug\_3.Paths.pdb
+D:\SoftUni\Fundamental level\OOP\2.Статични членове и пространства от имена\Домашни\Static Members and Namespaces\3. Paths\bin\Debug\_1.Point3D.exe
+D:\SoftUni\Fundamental level\OOP\2.Статични членове и пространства от имена\Домашни\Static Members and Namespaces\3. Paths\bin\Debug\_1.Point3D.pdb
+D:\SoftUni\Fundamental level\OOP\2.Статични членове и пространства от имена\Домашни\Static Members and Namespaces\3. Paths\obj\Debug\_3.Paths.exe
+D:\SoftUni\Fundamental level\OOP\2.Статични членове и пространства от имена\Домашни\Static Members and Namespaces\3. Paths\obj\Debug\_3.Paths.pdb

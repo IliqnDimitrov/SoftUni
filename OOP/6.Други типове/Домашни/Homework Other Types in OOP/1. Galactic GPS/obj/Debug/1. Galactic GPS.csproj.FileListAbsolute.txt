@@ -1,0 +1,6 @@
+D:\SoftUni\Fundamental level\OOP\6.Други типове\Домашни\Homework Other Types in OOP\1. Galactic GPS\bin\Debug\_1.Galactic_GPS.exe.config
+D:\SoftUni\Fundamental level\OOP\6.Други типове\Домашни\Homework Other Types in OOP\1. Galactic GPS\obj\Debug\1. Galactic GPS.csprojResolveAssemblyReference.cache
+D:\SoftUni\Fundamental level\OOP\6.Други типове\Домашни\Homework Other Types in OOP\1. Galactic GPS\bin\Debug\_1.Galactic_GPS.exe
+D:\SoftUni\Fundamental level\OOP\6.Други типове\Домашни\Homework Other Types in OOP\1. Galactic GPS\bin\Debug\_1.Galactic_GPS.pdb
+D:\SoftUni\Fundamental level\OOP\6.Други типове\Домашни\Homework Other Types in OOP\1. Galactic GPS\obj\Debug\_1.Galactic_GPS.exe
+D:\SoftUni\Fundamental level\OOP\6.Други типове\Домашни\Homework Other Types in OOP\1. Galactic GPS\obj\Debug\_1.Galactic_GPS.pdb

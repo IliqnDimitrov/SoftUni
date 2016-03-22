@@ -1,0 +1,13 @@
+C:\Users\Jamal\Desktop\Design Patterns\Creational\Prototype\bin\Debug\Prototype.exe.config
+C:\Users\Jamal\Desktop\Trash\Design Patterns\Creational\Prototype\bin\Debug\Prototype.exe.config
+C:\Users\Jamal\Desktop\Trash\Design Patterns\Creational\Prototype\bin\Debug\Prototype.exe
+C:\Users\Jamal\Desktop\Trash\Design Patterns\Creational\Prototype\bin\Debug\Prototype.pdb
+C:\Users\Jamal\Desktop\Trash\Design Patterns\Creational\Prototype\obj\Debug\6. Prototype.csprojResolveAssemblyReference.cache
+C:\Users\Jamal\Desktop\Trash\Design Patterns\Creational\Prototype\obj\Debug\Prototype.exe
+C:\Users\Jamal\Desktop\Trash\Design Patterns\Creational\Prototype\obj\Debug\Prototype.pdb
+C:\Users\blade\Desktop\18. Design-Patterns-Demo\18. Design-Patterns-Demo\Design Patterns\Creational\Prototype\bin\Debug\Prototype.exe.config
+C:\Users\blade\Desktop\18. Design-Patterns-Demo\18. Design-Patterns-Demo\Design Patterns\Creational\Prototype\obj\Debug\Prototype.exe
+C:\Users\blade\Desktop\18. Design-Patterns-Demo\18. Design-Patterns-Demo\Design Patterns\Creational\Prototype\obj\Debug\Prototype.pdb
+C:\Users\blade\Desktop\18. Design-Patterns-Demo\18. Design-Patterns-Demo\Design Patterns\Creational\Prototype\bin\Debug\Prototype.exe
+C:\Users\blade\Desktop\18. Design-Patterns-Demo\18. Design-Patterns-Demo\Design Patterns\Creational\Prototype\bin\Debug\Prototype.pdb
+C:\Users\blade\Desktop\18. Design-Patterns-Demo\18. Design-Patterns-Demo\Design Patterns\Creational\Prototype\obj\Debug\6. Prototype.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\SoftUni\Fundamental level\Advanced C#\5.Regular Expressions\Домашно\Regular Expressions\2. Replace a tag\obj\Debug\2. Replace a tag.csprojResolveAssemblyReference.cache
+D:\SoftUni\Fundamental level\Advanced C#\5.Regular Expressions\Домашно\Regular Expressions\2. Replace a tag\bin\Debug\_2.Replace_a_tag.exe.config
+D:\SoftUni\Fundamental level\Advanced C#\5.Regular Expressions\Домашно\Regular Expressions\2. Replace a tag\bin\Debug\_2.Replace_a_tag.exe
+D:\SoftUni\Fundamental level\Advanced C#\5.Regular Expressions\Домашно\Regular Expressions\2. Replace a tag\bin\Debug\_2.Replace_a_tag.pdb
+D:\SoftUni\Fundamental level\Advanced C#\5.Regular Expressions\Домашно\Regular Expressions\2. Replace a tag\obj\Debug\_2.Replace_a_tag.exe
+D:\SoftUni\Fundamental level\Advanced C#\5.Regular Expressions\Домашно\Regular Expressions\2. Replace a tag\obj\Debug\_2.Replace_a_tag.pdb

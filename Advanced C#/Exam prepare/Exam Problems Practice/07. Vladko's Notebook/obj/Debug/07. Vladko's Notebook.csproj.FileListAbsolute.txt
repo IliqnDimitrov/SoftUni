@@ -1,0 +1,6 @@
+D:\SoftUni\Fundamental level\Advanced C#\Exam prepare\Exam Problems Practice\07. Vladko's Notebook\bin\Debug\_07.Vladko_s_Notebook.exe.config
+D:\SoftUni\Fundamental level\Advanced C#\Exam prepare\Exam Problems Practice\07. Vladko's Notebook\bin\Debug\_07.Vladko_s_Notebook.exe
+D:\SoftUni\Fundamental level\Advanced C#\Exam prepare\Exam Problems Practice\07. Vladko's Notebook\bin\Debug\_07.Vladko_s_Notebook.pdb
+D:\SoftUni\Fundamental level\Advanced C#\Exam prepare\Exam Problems Practice\07. Vladko's Notebook\obj\Debug\07. Vladko's Notebook.csprojResolveAssemblyReference.cache
+D:\SoftUni\Fundamental level\Advanced C#\Exam prepare\Exam Problems Practice\07. Vladko's Notebook\obj\Debug\_07.Vladko_s_Notebook.exe
+D:\SoftUni\Fundamental level\Advanced C#\Exam prepare\Exam Problems Practice\07. Vladko's Notebook\obj\Debug\_07.Vladko_s_Notebook.pdb

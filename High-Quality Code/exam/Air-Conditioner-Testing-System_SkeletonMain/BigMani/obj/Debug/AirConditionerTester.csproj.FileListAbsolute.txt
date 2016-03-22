@@ -1,0 +1,2 @@
+C:\Users\blade\Desktop\Air-Conditioner-Testing-System_SkeletonMain\BigMani\bin\Debug\BigMani.exe.config
+C:\Users\blade\Desktop\Air-Conditioner-Testing-System_SkeletonMain\BigMani\obj\Debug\AirConditionerTester.csprojResolveAssemblyReference.cache

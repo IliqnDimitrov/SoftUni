@@ -1,0 +1,5 @@
+D:\SoftUni\Fundamental level\Advanced C#\3.Methods\Домашно\Methods-Homework\6. Number Calculations\bin\Debug\_6.Number_Calculations.exe.config
+D:\SoftUni\Fundamental level\Advanced C#\3.Methods\Домашно\Methods-Homework\6. Number Calculations\bin\Debug\_6.Number_Calculations.exe
+D:\SoftUni\Fundamental level\Advanced C#\3.Methods\Домашно\Methods-Homework\6. Number Calculations\bin\Debug\_6.Number_Calculations.pdb
+D:\SoftUni\Fundamental level\Advanced C#\3.Methods\Домашно\Methods-Homework\6. Number Calculations\obj\Debug\_6.Number_Calculations.exe
+D:\SoftUni\Fundamental level\Advanced C#\3.Methods\Домашно\Methods-Homework\6. Number Calculations\obj\Debug\_6.Number_Calculations.pdb

@@ -1,0 +1,8 @@
+D:\SoftUni\Fundamental level\Advanced C#\2.MultidimensionalArrays, Sets, Dictionaries\Домашно\MultiArraysSetsDictionaries\6. Count Symbols\bin\Debug\_6.Count_Symbols.exe.config
+D:\SoftUni\Fundamental level\Advanced C#\2.MultidimensionalArrays, Sets, Dictionaries\Домашно\MultiArraysSetsDictionaries\6. Count Symbols\bin\Debug\_6.Count_Symbols.exe
+D:\SoftUni\Fundamental level\Advanced C#\2.MultidimensionalArrays, Sets, Dictionaries\Домашно\MultiArraysSetsDictionaries\6. Count Symbols\bin\Debug\_6.Count_Symbols.pdb
+D:\SoftUni\Fundamental level\Advanced C#\2.MultidimensionalArrays, Sets, Dictionaries\Домашно\MultiArraysSetsDictionaries\6. Count Symbols\obj\Debug\_6.Count_Symbols.exe
+D:\SoftUni\Fundamental level\Advanced C#\2.MultidimensionalArrays, Sets, Dictionaries\Домашно\MultiArraysSetsDictionaries\6. Count Symbols\obj\Debug\_6.Count_Symbols.pdb
+D:\SoftUni\Fundamental level\Advanced C#\MultiArraysSetsDictionaries\6. Count Symbols\bin\Debug\_6.Count_Symbols.exe.config
+D:\SoftUni\Fundamental level\Advanced C#\MultiArraysSetsDictionaries\6. Count Symbols\obj\Debug\_6.Count_Symbols.exe
+D:\SoftUni\Fundamental level\Advanced C#\MultiArraysSetsDictionaries\6. Count Symbols\obj\Debug\_6.Count_Symbols.pdb

@@ -1,0 +1,12 @@
+D:\SoftUni\Fundamental level\OOP\lab 30.11\Mass Effect_Скелет\Skeleton\MassEffect\bin\Debug\MassEffect.exe.config
+D:\SoftUni\Fundamental level\OOP\lab 30.11\Mass Effect_Скелет\Skeleton\MassEffect\bin\Debug\MassEffect.exe
+D:\SoftUni\Fundamental level\OOP\lab 30.11\Mass Effect_Скелет\Skeleton\MassEffect\bin\Debug\MassEffect.pdb
+D:\SoftUni\Fundamental level\OOP\lab 30.11\Mass Effect_Скелет\Skeleton\MassEffect\obj\Debug\MassEffect.csprojResolveAssemblyReference.cache
+D:\SoftUni\Fundamental level\OOP\lab 30.11\Mass Effect_Скелет\Skeleton\MassEffect\obj\Debug\MassEffect.exe
+D:\SoftUni\Fundamental level\OOP\lab 30.11\Mass Effect_Скелет\Skeleton\MassEffect\obj\Debug\MassEffect.pdb
+D:\SoftUni\Fundamental level\OOP\lab 30.11\Mass Effect_Скелет\Mass Effect_Скелет\Skeleton\MassEffect\bin\Debug\MassEffect.exe.config
+D:\SoftUni\Fundamental level\OOP\lab 30.11\Mass Effect_Скелет\Mass Effect_Скелет\Skeleton\MassEffect\obj\Debug\MassEffect.exe
+D:\SoftUni\Fundamental level\OOP\lab 30.11\Mass Effect_Скелет\Mass Effect_Скелет\Skeleton\MassEffect\obj\Debug\MassEffect.pdb
+D:\SoftUni\Fundamental level\OOP\lab 30.11\Mass Effect_Скелет\Mass Effect_Скелет\Skeleton\MassEffect\obj\Debug\MassEffect.csprojResolveAssemblyReference.cache
+D:\SoftUni\Fundamental level\OOP\lab 30.11\Mass Effect_Скелет\Mass Effect_Скелет\Skeleton\MassEffect\bin\Debug\MassEffect.exe
+D:\SoftUni\Fundamental level\OOP\lab 30.11\Mass Effect_Скелет\Mass Effect_Скелет\Skeleton\MassEffect\bin\Debug\MassEffect.pdb

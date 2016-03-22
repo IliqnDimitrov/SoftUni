@@ -1,0 +1,5 @@
+C:\Users\blade\Downloads\02. Naming-Identifiers-Homework\Naming Identifiers Homework\Orders\bin\Debug\Orders.exe.config
+C:\Users\blade\Downloads\02. Naming-Identifiers-Homework\Naming Identifiers Homework\Orders\bin\Debug\Orders.exe
+C:\Users\blade\Downloads\02. Naming-Identifiers-Homework\Naming Identifiers Homework\Orders\bin\Debug\Orders.pdb
+C:\Users\blade\Downloads\02. Naming-Identifiers-Homework\Naming Identifiers Homework\Orders\obj\Debug\Orders.exe
+C:\Users\blade\Downloads\02. Naming-Identifiers-Homework\Naming Identifiers Homework\Orders\obj\Debug\Orders.pdb

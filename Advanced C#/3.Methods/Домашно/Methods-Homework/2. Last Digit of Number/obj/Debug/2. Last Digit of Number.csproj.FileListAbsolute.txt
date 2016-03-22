@@ -1,0 +1,5 @@
+D:\SoftUni\Fundamental level\Advanced C#\3.Methods\Домашно\Methods-Homework\2. Last Digit of Number\bin\Debug\_2.Last_Digit_of_Number.exe.config
+D:\SoftUni\Fundamental level\Advanced C#\3.Methods\Домашно\Methods-Homework\2. Last Digit of Number\bin\Debug\_2.Last_Digit_of_Number.exe
+D:\SoftUni\Fundamental level\Advanced C#\3.Methods\Домашно\Methods-Homework\2. Last Digit of Number\bin\Debug\_2.Last_Digit_of_Number.pdb
+D:\SoftUni\Fundamental level\Advanced C#\3.Methods\Домашно\Methods-Homework\2. Last Digit of Number\obj\Debug\_2.Last_Digit_of_Number.exe
+D:\SoftUni\Fundamental level\Advanced C#\3.Methods\Домашно\Methods-Homework\2. Last Digit of Number\obj\Debug\_2.Last_Digit_of_Number.pdb

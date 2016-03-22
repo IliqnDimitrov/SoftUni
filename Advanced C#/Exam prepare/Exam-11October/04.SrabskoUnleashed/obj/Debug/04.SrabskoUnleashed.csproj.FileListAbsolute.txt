@@ -1,0 +1,6 @@
+D:\SoftUni\Fundamental level\Advanced C#\Exam prepare\Exam-11October\04.SrabskoUnleashed\bin\Debug\04.SrabskoUnleashed.exe.config
+D:\SoftUni\Fundamental level\Advanced C#\Exam prepare\Exam-11October\04.SrabskoUnleashed\bin\Debug\04.SrabskoUnleashed.exe
+D:\SoftUni\Fundamental level\Advanced C#\Exam prepare\Exam-11October\04.SrabskoUnleashed\bin\Debug\04.SrabskoUnleashed.pdb
+D:\SoftUni\Fundamental level\Advanced C#\Exam prepare\Exam-11October\04.SrabskoUnleashed\obj\Debug\04.SrabskoUnleashed.csprojResolveAssemblyReference.cache
+D:\SoftUni\Fundamental level\Advanced C#\Exam prepare\Exam-11October\04.SrabskoUnleashed\obj\Debug\04.SrabskoUnleashed.exe
+D:\SoftUni\Fundamental level\Advanced C#\Exam prepare\Exam-11October\04.SrabskoUnleashed\obj\Debug\04.SrabskoUnleashed.pdb

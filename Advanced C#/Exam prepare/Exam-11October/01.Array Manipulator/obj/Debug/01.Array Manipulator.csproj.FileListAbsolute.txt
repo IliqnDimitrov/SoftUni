@@ -1,0 +1,6 @@
+D:\SoftUni\Fundamental level\Advanced C#\Exam prepare\Exam-11October\01.Array Manipulator\bin\Debug\01.Array Manipulator.exe.config
+D:\SoftUni\Fundamental level\Advanced C#\Exam prepare\Exam-11October\01.Array Manipulator\bin\Debug\01.Array Manipulator.exe
+D:\SoftUni\Fundamental level\Advanced C#\Exam prepare\Exam-11October\01.Array Manipulator\bin\Debug\01.Array Manipulator.pdb
+D:\SoftUni\Fundamental level\Advanced C#\Exam prepare\Exam-11October\01.Array Manipulator\obj\Debug\01.Array Manipulator.csprojResolveAssemblyReference.cache
+D:\SoftUni\Fundamental level\Advanced C#\Exam prepare\Exam-11October\01.Array Manipulator\obj\Debug\01.Array Manipulator.exe
+D:\SoftUni\Fundamental level\Advanced C#\Exam prepare\Exam-11October\01.Array Manipulator\obj\Debug\01.Array Manipulator.pdb

@@ -1,0 +1,6 @@
+C:\Users\blade\Desktop\Exercise- Strings\Exercise- Strings\bin\Debug\Exercise- Strings.exe.config
+C:\Users\blade\Desktop\Exercise- Strings\Exercise- Strings\bin\Debug\Exercise- Strings.exe
+C:\Users\blade\Desktop\Exercise- Strings\Exercise- Strings\bin\Debug\Exercise- Strings.pdb
+C:\Users\blade\Desktop\Exercise- Strings\Exercise- Strings\obj\Debug\Exercise- Strings.csprojResolveAssemblyReference.cache
+C:\Users\blade\Desktop\Exercise- Strings\Exercise- Strings\obj\Debug\Exercise- Strings.exe
+C:\Users\blade\Desktop\Exercise- Strings\Exercise- Strings\obj\Debug\Exercise- Strings.pdb

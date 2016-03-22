@@ -1,0 +1,6 @@
+D:\SoftUni\Fundamental level\Advanced C#\1.Arrays, Lists, Stacks, Queues\Домашно\Arrays, Lists, Stacks, Queues\2. Sort Array Selection Sort\bin\Debug\_2.Sort_Array_Selection_Sort.exe.config
+D:\SoftUni\Fundamental level\Advanced C#\1.Arrays, Lists, Stacks, Queues\Домашно\Arrays, Lists, Stacks, Queues\2. Sort Array Selection Sort\bin\Debug\_2.Sort_Array_Selection_Sort.exe
+D:\SoftUni\Fundamental level\Advanced C#\1.Arrays, Lists, Stacks, Queues\Домашно\Arrays, Lists, Stacks, Queues\2. Sort Array Selection Sort\bin\Debug\_2.Sort_Array_Selection_Sort.pdb
+D:\SoftUni\Fundamental level\Advanced C#\1.Arrays, Lists, Stacks, Queues\Домашно\Arrays, Lists, Stacks, Queues\2. Sort Array Selection Sort\obj\Debug\_2.Sort_Array_Selection_Sort.exe
+D:\SoftUni\Fundamental level\Advanced C#\1.Arrays, Lists, Stacks, Queues\Домашно\Arrays, Lists, Stacks, Queues\2. Sort Array Selection Sort\obj\Debug\_2.Sort_Array_Selection_Sort.pdb
+D:\SoftUni\Fundamental level\Advanced C#\1.Arrays, Lists, Stacks, Queues\Домашно\Arrays, Lists, Stacks, Queues\2. Sort Array Selection Sort\obj\Debug\2. Sort Array Selection Sort.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\m3choka\Downloads\OOPExamPrep\Empires\bin\Debug\Empires.exe.config
+G:\SoftUni\OOP_November\PrepareForExam\OOPExamPrep\Empires\bin\Debug\Empires.exe.config
+G:\SoftUni\OOP_November\PrepareForExam\OOPExamPrep\Empires\obj\Debug\Empires.csprojResolveAssemblyReference.cache
+C:\Users\blade\Downloads\Empires (1)\Empires\bin\Debug\Empires.exe.config
+C:\Users\blade\Downloads\Empires (1)\Empires\obj\Debug\Empires.csprojResolveAssemblyReference.cache
+D:\SoftUni\Fundamental level\OOP\exam primeri\Empires (1)\Empires\bin\Debug\Empires.exe.config

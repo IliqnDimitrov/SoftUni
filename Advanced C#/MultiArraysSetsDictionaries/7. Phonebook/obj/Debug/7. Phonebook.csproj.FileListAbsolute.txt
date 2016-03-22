@@ -1,0 +1,8 @@
+D:\SoftUni\Fundamental level\Advanced C#\2.MultidimensionalArrays, Sets, Dictionaries\Домашно\MultiArraysSetsDictionaries\7. Phonebook\bin\Debug\_7.Phonebook.exe.config
+D:\SoftUni\Fundamental level\Advanced C#\2.MultidimensionalArrays, Sets, Dictionaries\Домашно\MultiArraysSetsDictionaries\7. Phonebook\bin\Debug\_7.Phonebook.exe
+D:\SoftUni\Fundamental level\Advanced C#\2.MultidimensionalArrays, Sets, Dictionaries\Домашно\MultiArraysSetsDictionaries\7. Phonebook\bin\Debug\_7.Phonebook.pdb
+D:\SoftUni\Fundamental level\Advanced C#\2.MultidimensionalArrays, Sets, Dictionaries\Домашно\MultiArraysSetsDictionaries\7. Phonebook\obj\Debug\_7.Phonebook.exe
+D:\SoftUni\Fundamental level\Advanced C#\2.MultidimensionalArrays, Sets, Dictionaries\Домашно\MultiArraysSetsDictionaries\7. Phonebook\obj\Debug\_7.Phonebook.pdb
+D:\SoftUni\Fundamental level\Advanced C#\MultiArraysSetsDictionaries\7. Phonebook\bin\Debug\_7.Phonebook.exe.config
+D:\SoftUni\Fundamental level\Advanced C#\MultiArraysSetsDictionaries\7. Phonebook\obj\Debug\_7.Phonebook.exe
+D:\SoftUni\Fundamental level\Advanced C#\MultiArraysSetsDictionaries\7. Phonebook\obj\Debug\_7.Phonebook.pdb

@@ -1,0 +1,6 @@
+D:\SoftUni\Fundamental level\Advanced C#\5.Regular Expressions\Домашно\Regular Expressions\1. Series of Letters\bin\Debug\_1.Series_of_Letters.exe.config
+D:\SoftUni\Fundamental level\Advanced C#\5.Regular Expressions\Домашно\Regular Expressions\1. Series of Letters\bin\Debug\_1.Series_of_Letters.exe
+D:\SoftUni\Fundamental level\Advanced C#\5.Regular Expressions\Домашно\Regular Expressions\1. Series of Letters\bin\Debug\_1.Series_of_Letters.pdb
+D:\SoftUni\Fundamental level\Advanced C#\5.Regular Expressions\Домашно\Regular Expressions\1. Series of Letters\obj\Debug\1. Series of Letters.csprojResolveAssemblyReference.cache
+D:\SoftUni\Fundamental level\Advanced C#\5.Regular Expressions\Домашно\Regular Expressions\1. Series of Letters\obj\Debug\_1.Series_of_Letters.exe
+D:\SoftUni\Fundamental level\Advanced C#\5.Regular Expressions\Домашно\Regular Expressions\1. Series of Letters\obj\Debug\_1.Series_of_Letters.pdb

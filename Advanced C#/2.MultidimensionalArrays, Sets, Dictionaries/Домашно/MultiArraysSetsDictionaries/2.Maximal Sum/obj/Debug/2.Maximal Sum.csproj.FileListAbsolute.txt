@@ -1,0 +1,1 @@
+D:\SoftUni\Fundamental level\Advanced C#\2.MultidimensionalArrays, Sets, Dictionaries\Домашно\MultiArraysSetsDictionaries\2.Maximal Sum\bin\Debug\2.Maximal Sum.exe.config

@@ -1,0 +1,6 @@
+D:\SoftUni\Fundamental level\Advanced C#\Exam prepare\Exam-28February\2.Parking System\bin\Debug\2.Parking System.exe.config
+D:\SoftUni\Fundamental level\Advanced C#\Exam prepare\Exam-28February\2.Parking System\bin\Debug\2.Parking System.exe
+D:\SoftUni\Fundamental level\Advanced C#\Exam prepare\Exam-28February\2.Parking System\bin\Debug\2.Parking System.pdb
+D:\SoftUni\Fundamental level\Advanced C#\Exam prepare\Exam-28February\2.Parking System\obj\Debug\2.Parking System.exe
+D:\SoftUni\Fundamental level\Advanced C#\Exam prepare\Exam-28February\2.Parking System\obj\Debug\2.Parking System.pdb
+D:\SoftUni\Fundamental level\Advanced C#\Exam prepare\Exam-28February\2.Parking System\obj\Debug\2.Parking System.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+D:\SoftUni\Fundamental level\OOP\6.Други типове\Домашни\Homework Other Types in OOP\3. Generic List\bin\Debug\_3.Generic_List.exe.config
+D:\SoftUni\Fundamental level\OOP\6.Други типове\Домашни\Homework Other Types in OOP\3. Generic List\bin\Debug\_3.Generic_List.exe
+D:\SoftUni\Fundamental level\OOP\6.Други типове\Домашни\Homework Other Types in OOP\3. Generic List\bin\Debug\_3.Generic_List.pdb
+D:\SoftUni\Fundamental level\OOP\6.Други типове\Домашни\Homework Other Types in OOP\3. Generic List\obj\Debug\_3.Generic_List.exe
+D:\SoftUni\Fundamental level\OOP\6.Други типове\Домашни\Homework Other Types in OOP\3. Generic List\obj\Debug\_3.Generic_List.pdb

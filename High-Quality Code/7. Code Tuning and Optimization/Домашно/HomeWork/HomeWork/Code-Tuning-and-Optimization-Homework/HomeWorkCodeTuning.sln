@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolarSystem", "SolarSystem.csproj", "{2F30E9AF-8256-40AF-B356-EA14E55CE9D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComplexOperation", "ComplexOperation\ComplexOperation.csproj", "{2F3D4A15-0193-46A7-AED7-00CDD7B7C512}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortingAlgorithms", "SortingAlgorithms\SortingAlgorithms.csproj", "{2AD48C11-A87C-41CB-9398-36D57B4662EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicArithmeticOperations", "..\BasicArithmeticOperations\BasicArithmeticOperations.csproj", "{0DA731B6-9C9D-42FA-AA8B-8A1139E9F0C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F30E9AF-8256-40AF-B356-EA14E55CE9D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F30E9AF-8256-40AF-B356-EA14E55CE9D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F30E9AF-8256-40AF-B356-EA14E55CE9D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F30E9AF-8256-40AF-B356-EA14E55CE9D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F3D4A15-0193-46A7-AED7-00CDD7B7C512}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F3D4A15-0193-46A7-AED7-00CDD7B7C512}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F3D4A15-0193-46A7-AED7-00CDD7B7C512}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F3D4A15-0193-46A7-AED7-00CDD7B7C512}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AD48C11-A87C-41CB-9398-36D57B4662EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AD48C11-A87C-41CB-9398-36D57B4662EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AD48C11-A87C-41CB-9398-36D57B4662EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AD48C11-A87C-41CB-9398-36D57B4662EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DA731B6-9C9D-42FA-AA8B-8A1139E9F0C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DA731B6-9C9D-42FA-AA8B-8A1139E9F0C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DA731B6-9C9D-42FA-AA8B-8A1139E9F0C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DA731B6-9C9D-42FA-AA8B-8A1139E9F0C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

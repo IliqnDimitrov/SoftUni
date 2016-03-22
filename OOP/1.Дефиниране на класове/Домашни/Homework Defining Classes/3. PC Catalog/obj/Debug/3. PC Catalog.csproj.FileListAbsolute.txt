@@ -1,0 +1,6 @@
+D:\SoftUni\Fundamental level\OOP\1.Дефиниране на класове\Домашни\Homework Defining Classes\3. PC Catalog\bin\Debug\_3.PC_Catalog.exe.config
+D:\SoftUni\Fundamental level\OOP\1.Дефиниране на класове\Домашни\Homework Defining Classes\3. PC Catalog\obj\Debug\3. PC Catalog.csprojResolveAssemblyReference.cache
+D:\SoftUni\Fundamental level\OOP\1.Дефиниране на класове\Домашни\Homework Defining Classes\3. PC Catalog\bin\Debug\_3.PC_Catalog.exe
+D:\SoftUni\Fundamental level\OOP\1.Дефиниране на класове\Домашни\Homework Defining Classes\3. PC Catalog\bin\Debug\_3.PC_Catalog.pdb
+D:\SoftUni\Fundamental level\OOP\1.Дефиниране на класове\Домашни\Homework Defining Classes\3. PC Catalog\obj\Debug\_3.PC_Catalog.exe
+D:\SoftUni\Fundamental level\OOP\1.Дефиниране на класове\Домашни\Homework Defining Classes\3. PC Catalog\obj\Debug\_3.PC_Catalog.pdb

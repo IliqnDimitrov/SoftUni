@@ -1,0 +1,5 @@
+C:\Users\blade\Desktop\Lab15.02\3. Insertion Sort\bin\Debug\_3.Insertion_Sort.exe.config
+C:\Users\blade\Desktop\Lab15.02\3. Insertion Sort\bin\Debug\_3.Insertion_Sort.exe
+C:\Users\blade\Desktop\Lab15.02\3. Insertion Sort\bin\Debug\_3.Insertion_Sort.pdb
+C:\Users\blade\Desktop\Lab15.02\3. Insertion Sort\obj\Debug\_3.Insertion_Sort.exe
+C:\Users\blade\Desktop\Lab15.02\3. Insertion Sort\obj\Debug\_3.Insertion_Sort.pdb

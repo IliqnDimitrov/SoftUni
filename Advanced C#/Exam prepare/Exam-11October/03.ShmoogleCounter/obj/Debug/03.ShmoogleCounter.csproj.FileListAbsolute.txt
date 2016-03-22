@@ -1,0 +1,6 @@
+D:\SoftUni\Fundamental level\Advanced C#\Exam prepare\Exam-11October\03.ShmoogleCounter\bin\Debug\03.ShmoogleCounter.exe.config
+D:\SoftUni\Fundamental level\Advanced C#\Exam prepare\Exam-11October\03.ShmoogleCounter\obj\Debug\03.ShmoogleCounter.csprojResolveAssemblyReference.cache
+D:\SoftUni\Fundamental level\Advanced C#\Exam prepare\Exam-11October\03.ShmoogleCounter\bin\Debug\03.ShmoogleCounter.exe
+D:\SoftUni\Fundamental level\Advanced C#\Exam prepare\Exam-11October\03.ShmoogleCounter\bin\Debug\03.ShmoogleCounter.pdb
+D:\SoftUni\Fundamental level\Advanced C#\Exam prepare\Exam-11October\03.ShmoogleCounter\obj\Debug\03.ShmoogleCounter.exe
+D:\SoftUni\Fundamental level\Advanced C#\Exam prepare\Exam-11October\03.ShmoogleCounter\obj\Debug\03.ShmoogleCounter.pdb

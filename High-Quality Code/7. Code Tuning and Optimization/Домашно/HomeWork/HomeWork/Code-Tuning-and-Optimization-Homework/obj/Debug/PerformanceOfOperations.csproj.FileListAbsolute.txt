@@ -1,0 +1,6 @@
+G:\SoftUni\HighQualityCode_December\10.Code Tuning and Optimization\HomeWork\PerformanceOfOperations\bin\Debug\PerformanceOfOperations.exe.config
+G:\SoftUni\HighQualityCode_December\10.Code Tuning and Optimization\HomeWork\PerformanceOfOperations\obj\Debug\PerformanceOfOperations.csprojResolveAssemblyReference.cache
+G:\SoftUni\HighQualityCode_December\10.Code Tuning and Optimization\HomeWork\PerformanceOfOperations\bin\Debug\PerformanceOfOperations.exe
+G:\SoftUni\HighQualityCode_December\10.Code Tuning and Optimization\HomeWork\PerformanceOfOperations\bin\Debug\PerformanceOfOperations.pdb
+G:\SoftUni\HighQualityCode_December\10.Code Tuning and Optimization\HomeWork\PerformanceOfOperations\obj\Debug\PerformanceOfOperations.exe
+G:\SoftUni\HighQualityCode_December\10.Code Tuning and Optimization\HomeWork\PerformanceOfOperations\obj\Debug\PerformanceOfOperations.pdb

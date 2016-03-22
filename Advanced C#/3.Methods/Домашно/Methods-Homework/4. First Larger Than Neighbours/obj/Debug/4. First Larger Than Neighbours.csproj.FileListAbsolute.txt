@@ -1,0 +1,8 @@
+D:\SoftUni\Fundamental level\Advanced C#\3.Methods\Домашно\Methods-Homework\4. First Larger Than Neighbours\bin\Debug\_4.First_Larger_Than_Neighbours.exe.config
+D:\SoftUni\Fundamental level\Advanced C#\3.Methods\Домашно\Methods-Homework\4. First Larger Than Neighbours\bin\Debug\_4.First_Larger_Than_Neighbours.exe
+D:\SoftUni\Fundamental level\Advanced C#\3.Methods\Домашно\Methods-Homework\4. First Larger Than Neighbours\bin\Debug\_4.First_Larger_Than_Neighbours.pdb
+D:\SoftUni\Fundamental level\Advanced C#\3.Methods\Домашно\Methods-Homework\4. First Larger Than Neighbours\bin\Debug\_3.Larger_Than_Neighbours.exe
+D:\SoftUni\Fundamental level\Advanced C#\3.Methods\Домашно\Methods-Homework\4. First Larger Than Neighbours\bin\Debug\_3.Larger_Than_Neighbours.pdb
+D:\SoftUni\Fundamental level\Advanced C#\3.Methods\Домашно\Methods-Homework\4. First Larger Than Neighbours\obj\Debug\4. First Larger Than Neighbours.csprojResolveAssemblyReference.cache
+D:\SoftUni\Fundamental level\Advanced C#\3.Methods\Домашно\Methods-Homework\4. First Larger Than Neighbours\obj\Debug\_4.First_Larger_Than_Neighbours.exe
+D:\SoftUni\Fundamental level\Advanced C#\3.Methods\Домашно\Methods-Homework\4. First Larger Than Neighbours\obj\Debug\_4.First_Larger_Than_Neighbours.pdb

@@ -1,0 +1,6 @@
+C:\Users\blade\Desktop\Lab15.02\01. Prime Factorization\bin\Debug\_01.Prime_Factorization.exe.config
+C:\Users\blade\Desktop\Lab15.02\01. Prime Factorization\bin\Debug\_01.Prime_Factorization.exe
+C:\Users\blade\Desktop\Lab15.02\01. Prime Factorization\bin\Debug\_01.Prime_Factorization.pdb
+C:\Users\blade\Desktop\Lab15.02\01. Prime Factorization\obj\Debug\01. Prime Factorization.csprojResolveAssemblyReference.cache
+C:\Users\blade\Desktop\Lab15.02\01. Prime Factorization\obj\Debug\_01.Prime_Factorization.exe
+C:\Users\blade\Desktop\Lab15.02\01. Prime Factorization\obj\Debug\_01.Prime_Factorization.pdb

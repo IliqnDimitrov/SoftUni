@@ -1,0 +1,6 @@
+D:\SoftUni\Fundamental level\OOP\6.Други типове\Домашни\Homework Other Types in OOP\2. Fraction Calculator\bin\Debug\_2.Fraction_Calculator.exe.config
+D:\SoftUni\Fundamental level\OOP\6.Други типове\Домашни\Homework Other Types in OOP\2. Fraction Calculator\bin\Debug\_2.Fraction_Calculator.exe
+D:\SoftUni\Fundamental level\OOP\6.Други типове\Домашни\Homework Other Types in OOP\2. Fraction Calculator\bin\Debug\_2.Fraction_Calculator.pdb
+D:\SoftUni\Fundamental level\OOP\6.Други типове\Домашни\Homework Other Types in OOP\2. Fraction Calculator\obj\Debug\2. Fraction Calculator.csprojResolveAssemblyReference.cache
+D:\SoftUni\Fundamental level\OOP\6.Други типове\Домашни\Homework Other Types in OOP\2. Fraction Calculator\obj\Debug\_2.Fraction_Calculator.exe
+D:\SoftUni\Fundamental level\OOP\6.Други типове\Домашни\Homework Other Types in OOP\2. Fraction Calculator\obj\Debug\_2.Fraction_Calculator.pdb

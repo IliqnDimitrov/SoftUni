@@ -1,0 +1,7 @@
+D:\SoftUni\Fundamental level\Advanced C#\6.Functional Programming\Домашно\Functional Programming Homework\7. Filter Students by Phone\bin\Debug\_7.Filter_Students_by_Phone.exe.config
+D:\SoftUni\Fundamental level\Advanced C#\6.Functional Programming\Домашно\Functional Programming Homework\7. Filter Students by Phone\bin\Debug\_7.Filter_Students_by_Phone.exe
+D:\SoftUni\Fundamental level\Advanced C#\6.Functional Programming\Домашно\Functional Programming Homework\7. Filter Students by Phone\bin\Debug\_7.Filter_Students_by_Phone.pdb
+D:\SoftUni\Fundamental level\Advanced C#\6.Functional Programming\Домашно\Functional Programming Homework\7. Filter Students by Phone\bin\Debug\_1.Class_Student.exe
+D:\SoftUni\Fundamental level\Advanced C#\6.Functional Programming\Домашно\Functional Programming Homework\7. Filter Students by Phone\bin\Debug\_1.Class_Student.pdb
+D:\SoftUni\Fundamental level\Advanced C#\6.Functional Programming\Домашно\Functional Programming Homework\7. Filter Students by Phone\obj\Debug\_7.Filter_Students_by_Phone.exe
+D:\SoftUni\Fundamental level\Advanced C#\6.Functional Programming\Домашно\Functional Programming Homework\7. Filter Students by Phone\obj\Debug\_7.Filter_Students_by_Phone.pdb

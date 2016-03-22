@@ -1,0 +1,3 @@
+D:\SoftUni\Fundamental level\High-Quality Code\3.Code Documentation and Comments\Домашни\CodeDocumentationAndComments\1.StringExtensions\bin\Debug\1.StringExtensions.exe.config
+D:\SoftUni\Fundamental level\High-Quality Code\3.Code Documentation and Comments\Домашни\CodeDocumentationAndComments\1.StringExtensions\obj\Debug\1.StringExtensions.csprojResolveAssemblyReference.cache
+D:\SoftUni\Fundamental level\High-Quality Code\3.Code Documentation and Comments\Домашни\CodeDocumentationAndComments\1.CodeDocumentationAndComments\1.StringExtensions\bin\Debug\1.StringExtensions.exe.config

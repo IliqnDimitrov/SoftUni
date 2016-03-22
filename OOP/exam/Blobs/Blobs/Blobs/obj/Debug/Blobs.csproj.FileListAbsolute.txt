@@ -1,0 +1,9 @@
+C:\Users\blade\Desktop\Blobs\Blobs\Blobs\bin\Debug\Blobs.exe.config
+C:\Users\blade\Desktop\Blobs\Blobs\Blobs\bin\Debug\Blobs.exe
+C:\Users\blade\Desktop\Blobs\Blobs\Blobs\bin\Debug\Blobs.pdb
+C:\Users\blade\Desktop\Blobs\Blobs\Blobs\obj\Debug\Blobs.csprojResolveAssemblyReference.cache
+C:\Users\blade\Desktop\Blobs\Blobs\Blobs\obj\Debug\Blobs.exe
+C:\Users\blade\Desktop\Blobs\Blobs\Blobs\obj\Debug\Blobs.pdb
+D:\SoftUni\Fundamental level\OOP\exam\Blobs\Blobs\Blobs\bin\Debug\Blobs.exe.config
+D:\SoftUni\Fundamental level\OOP\exam\Blobs\Blobs\Blobs\obj\Debug\Blobs.exe
+D:\SoftUni\Fundamental level\OOP\exam\Blobs\Blobs\Blobs\obj\Debug\Blobs.pdb

@@ -1,0 +1,5 @@
+D:\SoftUni\Fundamental level\High-Quality Code\6.Defensive Programming and Exceptions\Домашно\09. Defensive-Programming-and-Exceptions-Homework\Assertions-and-Exceptions\Exceptions\bin\Debug\Exceptions-Homework.exe
+D:\SoftUni\Fundamental level\High-Quality Code\6.Defensive Programming and Exceptions\Домашно\09. Defensive-Programming-and-Exceptions-Homework\Assertions-and-Exceptions\Exceptions\bin\Debug\Exceptions-Homework.pdb
+D:\SoftUni\Fundamental level\High-Quality Code\6.Defensive Programming and Exceptions\Домашно\09. Defensive-Programming-and-Exceptions-Homework\Assertions-and-Exceptions\Exceptions\obj\Debug\Exceptions-Homework.exe
+D:\SoftUni\Fundamental level\High-Quality Code\6.Defensive Programming and Exceptions\Домашно\09. Defensive-Programming-and-Exceptions-Homework\Assertions-and-Exceptions\Exceptions\obj\Debug\Exceptions-Homework.pdb
+D:\SoftUni\Fundamental level\High-Quality Code\6.Defensive Programming and Exceptions\Домашно\09. Defensive-Programming-and-Exceptions-Homework\Assertions-and-Exceptions\Exceptions\obj\Debug\Exceptions.csprojResolveAssemblyReference.cache

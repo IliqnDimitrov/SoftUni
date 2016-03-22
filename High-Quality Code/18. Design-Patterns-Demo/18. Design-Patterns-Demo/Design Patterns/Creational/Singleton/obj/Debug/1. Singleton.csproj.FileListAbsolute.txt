@@ -1,0 +1,7 @@
+C:\Users\Jamal\Desktop\Trash\Design Patterns\Creational\Singleton\bin\Debug\Singleton.exe.config
+C:\Users\blade\Desktop\18. Design-Patterns-Demo\18. Design-Patterns-Demo\Design Patterns\Creational\Singleton\bin\Debug\Singleton.exe.config
+C:\Users\blade\Desktop\18. Design-Patterns-Demo\18. Design-Patterns-Demo\Design Patterns\Creational\Singleton\bin\Debug\Singleton.exe
+C:\Users\blade\Desktop\18. Design-Patterns-Demo\18. Design-Patterns-Demo\Design Patterns\Creational\Singleton\bin\Debug\Singleton.pdb
+C:\Users\blade\Desktop\18. Design-Patterns-Demo\18. Design-Patterns-Demo\Design Patterns\Creational\Singleton\obj\Debug\1. Singleton.csprojResolveAssemblyReference.cache
+C:\Users\blade\Desktop\18. Design-Patterns-Demo\18. Design-Patterns-Demo\Design Patterns\Creational\Singleton\obj\Debug\Singleton.exe
+C:\Users\blade\Desktop\18. Design-Patterns-Demo\18. Design-Patterns-Demo\Design Patterns\Creational\Singleton\obj\Debug\Singleton.pdb

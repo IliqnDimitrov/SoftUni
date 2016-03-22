@@ -1,0 +1,91 @@
+1.8.2015 г. 23:21:09 ч. - Error - Error parsing JSON.
+1.8.2015 г. 23:21:09 ч. - Info - User Pesho successfully registered.
+1.8.2015 г. 23:21:09 ч. - Warning - Warning - missing files.
+<log>
+	<date>1.8.2015 г. 23:21:09 ч.</date>
+	<level>Fatal</level>
+	<message>mscorlib.dll does not respond</message>
+</log>
+<log>
+	<date>1.8.2015 г. 23:21:09 ч.</date>
+	<level>Critical</level>
+	<message>No connection string found in App.config</message>
+</log>
+12.8.2015 г. 21:48:34 ч. - Error - Error parsing JSON.
+12.8.2015 г. 21:48:34 ч. - Info - User Pesho successfully registered.
+12.8.2015 г. 21:48:34 ч. - Warning - Warning - missing files.
+<log>
+	<date>12.8.2015 г. 21:48:34 ч.</date>
+	<level>Fatal</level>
+	<message>mscorlib.dll does not respond</message>
+</log>
+<log>
+	<date>12.8.2015 г. 21:48:34 ч.</date>
+	<level>Critical</level>
+	<message>No connection string found in App.config</message>
+</log>
+27.1.2016 г. 20:39:07 - Error - Error parsing JSON.
+27.1.2016 г. 20:39:07 - Info - User Pesho successfully registered.
+27.1.2016 г. 20:39:07 - Warning - Warning - missing files.
+<log>
+	<date>27.1.2016 г. 20:39:07</date>
+	<level>Fatal</level>
+	<message>mscorlib.dll does not respond</message>
+</log>
+<log>
+	<date>27.1.2016 г. 20:39:07</date>
+	<level>Critical</level>
+	<message>No connection string found in App.config</message>
+</log>
+27.1.2016 г. 20:39:51 - Error - Error parsing JSON.
+27.1.2016 г. 20:39:51 - Info - User Pesho successfully registered.
+27.1.2016 г. 20:39:51 - Warning - Warning - missing files.
+<log>
+	<date>27.1.2016 г. 20:39:52</date>
+	<level>Fatal</level>
+	<message>mscorlib.dll does not respond</message>
+</log>
+<log>
+	<date>27.1.2016 г. 20:39:52</date>
+	<level>Critical</level>
+	<message>No connection string found in App.config</message>
+</log>
+27.1.2016 г. 20:39:59 - Error - Error parsing JSON.
+27.1.2016 г. 20:39:59 - Info - User Pesho successfully registered.
+27.1.2016 г. 20:39:59 - Warning - Warning - missing files.
+<log>
+	<date>27.1.2016 г. 20:39:59</date>
+	<level>Fatal</level>
+	<message>mscorlib.dll does not respond</message>
+</log>
+<log>
+	<date>27.1.2016 г. 20:39:59</date>
+	<level>Critical</level>
+	<message>No connection string found in App.config</message>
+</log>
+27.1.2016 г. 20:41:18 - Error - Error parsing JSON.
+27.1.2016 г. 20:41:18 - Info - User Pesho successfully registered.
+27.1.2016 г. 20:41:18 - Warning - Warning - missing files.
+<log>
+	<date>27.1.2016 г. 20:41:18</date>
+	<level>Fatal</level>
+	<message>mscorlib.dll does not respond</message>
+</log>
+<log>
+	<date>27.1.2016 г. 20:41:18</date>
+	<level>Critical</level>
+	<message>No connection string found in App.config</message>
+</log>
+27.1.2016 г. 20:42:14 - Error - Error parsing JSON.
+27.1.2016 г. 20:42:14 - Info - User Pesho successfully registered.
+27.1.2016 г. 20:42:14 - Warning - Warning - missing files.
+<log>
+	<date>27.1.2016 г. 20:42:14</date>
+	<level>Fatal</level>
+	<message>mscorlib.dll does not respond</message>
+</log>
+<log>
+	<date>27.1.2016 г. 20:42:14</date>
+	<level>Critical</level>
+	<message>No connection string found in App.config</message>
+</log>

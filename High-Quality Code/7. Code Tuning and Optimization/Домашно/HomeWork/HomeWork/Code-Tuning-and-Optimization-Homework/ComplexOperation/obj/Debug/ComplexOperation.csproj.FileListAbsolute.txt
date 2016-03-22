@@ -1,0 +1,9 @@
+G:\SoftUni\HighQualityCode_December\10.Code Tuning and Optimization\HomeWork\Code-Tuning-and-Optimization-Homework\ComplexOperation\bin\Debug\ComplexOperation.exe.config
+G:\SoftUni\HighQualityCode_December\10.Code Tuning and Optimization\HomeWork\Code-Tuning-and-Optimization-Homework\ComplexOperation\bin\Debug\ComplexOperation.exe
+G:\SoftUni\HighQualityCode_December\10.Code Tuning and Optimization\HomeWork\Code-Tuning-and-Optimization-Homework\ComplexOperation\bin\Debug\ComplexOperation.pdb
+G:\SoftUni\HighQualityCode_December\10.Code Tuning and Optimization\HomeWork\Code-Tuning-and-Optimization-Homework\ComplexOperation\obj\Debug\ComplexOperation.csprojResolveAssemblyReference.cache
+G:\SoftUni\HighQualityCode_December\10.Code Tuning and Optimization\HomeWork\Code-Tuning-and-Optimization-Homework\ComplexOperation\obj\Debug\ComplexOperation.exe
+G:\SoftUni\HighQualityCode_December\10.Code Tuning and Optimization\HomeWork\Code-Tuning-and-Optimization-Homework\ComplexOperation\obj\Debug\ComplexOperation.pdb
+C:\Users\m3choka\Downloads\HomeWork\Code-Tuning-and-Optimization-Homework\ComplexOperation\bin\Debug\ComplexOperation.exe.config
+C:\Users\m3choka\Downloads\HomeWork\Code-Tuning-and-Optimization-Homework\ComplexOperation\obj\Debug\ComplexOperation.exe
+C:\Users\m3choka\Downloads\HomeWork\Code-Tuning-and-Optimization-Homework\ComplexOperation\obj\Debug\ComplexOperation.pdb

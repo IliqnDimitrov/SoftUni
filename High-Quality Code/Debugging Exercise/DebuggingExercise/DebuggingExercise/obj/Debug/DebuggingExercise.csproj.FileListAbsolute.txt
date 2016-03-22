@@ -1,0 +1,6 @@
+C:\Users\blade\Desktop\Debugging Exercise\DebuggingExercise\DebuggingExercise\bin\Debug\DebuggingExercise.exe.config
+C:\Users\blade\Desktop\Debugging Exercise\DebuggingExercise\DebuggingExercise\bin\Debug\DebuggingExercise.exe
+C:\Users\blade\Desktop\Debugging Exercise\DebuggingExercise\DebuggingExercise\bin\Debug\DebuggingExercise.pdb
+C:\Users\blade\Desktop\Debugging Exercise\DebuggingExercise\DebuggingExercise\obj\Debug\DebuggingExercise.csprojResolveAssemblyReference.cache
+C:\Users\blade\Desktop\Debugging Exercise\DebuggingExercise\DebuggingExercise\obj\Debug\DebuggingExercise.exe
+C:\Users\blade\Desktop\Debugging Exercise\DebuggingExercise\DebuggingExercise\obj\Debug\DebuggingExercise.pdb

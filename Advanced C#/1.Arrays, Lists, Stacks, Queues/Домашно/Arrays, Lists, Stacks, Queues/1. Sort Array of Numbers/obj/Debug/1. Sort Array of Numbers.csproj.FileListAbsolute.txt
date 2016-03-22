@@ -1,0 +1,6 @@
+D:\SoftUni\Fundamental level\Advanced C#\1.Arrays, Lists, Stacks, Queues\Домашно\Arrays, Lists, Stacks, Queues\1. Sort Array of Numbers\bin\Debug\_1.Sort_Array_of_Numbers.exe.config
+D:\SoftUni\Fundamental level\Advanced C#\1.Arrays, Lists, Stacks, Queues\Домашно\Arrays, Lists, Stacks, Queues\1. Sort Array of Numbers\bin\Debug\_1.Sort_Array_of_Numbers.exe
+D:\SoftUni\Fundamental level\Advanced C#\1.Arrays, Lists, Stacks, Queues\Домашно\Arrays, Lists, Stacks, Queues\1. Sort Array of Numbers\bin\Debug\_1.Sort_Array_of_Numbers.pdb
+D:\SoftUni\Fundamental level\Advanced C#\1.Arrays, Lists, Stacks, Queues\Домашно\Arrays, Lists, Stacks, Queues\1. Sort Array of Numbers\obj\Debug\1. Sort Array of Numbers.csprojResolveAssemblyReference.cache
+D:\SoftUni\Fundamental level\Advanced C#\1.Arrays, Lists, Stacks, Queues\Домашно\Arrays, Lists, Stacks, Queues\1. Sort Array of Numbers\obj\Debug\_1.Sort_Array_of_Numbers.exe
+D:\SoftUni\Fundamental level\Advanced C#\1.Arrays, Lists, Stacks, Queues\Домашно\Arrays, Lists, Stacks, Queues\1. Sort Array of Numbers\obj\Debug\_1.Sort_Array_of_Numbers.pdb

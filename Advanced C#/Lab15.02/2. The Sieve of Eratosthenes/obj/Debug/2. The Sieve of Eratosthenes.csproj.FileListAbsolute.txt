@@ -1,0 +1,5 @@
+C:\Users\blade\Desktop\Lab15.02\2. The Sieve of Eratosthenes\bin\Debug\_2.The_Sieve_of_Eratosthenes.exe.config
+C:\Users\blade\Desktop\Lab15.02\2. The Sieve of Eratosthenes\bin\Debug\_2.The_Sieve_of_Eratosthenes.exe
+C:\Users\blade\Desktop\Lab15.02\2. The Sieve of Eratosthenes\bin\Debug\_2.The_Sieve_of_Eratosthenes.pdb
+C:\Users\blade\Desktop\Lab15.02\2. The Sieve of Eratosthenes\obj\Debug\_2.The_Sieve_of_Eratosthenes.exe
+C:\Users\blade\Desktop\Lab15.02\2. The Sieve of Eratosthenes\obj\Debug\_2.The_Sieve_of_Eratosthenes.pdb

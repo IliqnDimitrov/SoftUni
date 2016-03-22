@@ -1,0 +1,6 @@
+D:\SoftUni\Fundamental level\Advanced C#\Exam prepare\Exam-28February\3.Softuni Numerals\bin\Debug\3.Softuni Numerals.exe.config
+D:\SoftUni\Fundamental level\Advanced C#\Exam prepare\Exam-28February\3.Softuni Numerals\bin\Debug\3.Softuni Numerals.exe
+D:\SoftUni\Fundamental level\Advanced C#\Exam prepare\Exam-28February\3.Softuni Numerals\bin\Debug\3.Softuni Numerals.pdb
+D:\SoftUni\Fundamental level\Advanced C#\Exam prepare\Exam-28February\3.Softuni Numerals\obj\Debug\3.Softuni Numerals.csprojResolveAssemblyReference.cache
+D:\SoftUni\Fundamental level\Advanced C#\Exam prepare\Exam-28February\3.Softuni Numerals\obj\Debug\3.Softuni Numerals.exe
+D:\SoftUni\Fundamental level\Advanced C#\Exam prepare\Exam-28February\3.Softuni Numerals\obj\Debug\3.Softuni Numerals.pdb
