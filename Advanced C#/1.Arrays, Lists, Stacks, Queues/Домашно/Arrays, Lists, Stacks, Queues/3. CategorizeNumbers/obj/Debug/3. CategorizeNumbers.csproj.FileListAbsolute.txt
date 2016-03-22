@@ -4,3 +4,6 @@ D:\SoftUni\Fundamental level\Advanced C#\1.Arrays, Lists, Stacks, Queues\Дом�
 D:\SoftUni\Fundamental level\Advanced C#\1.Arrays, Lists, Stacks, Queues\Домашно\Arrays, Lists, Stacks, Queues\3. CategorizeNumbers\obj\Debug\3. CategorizeNumbers.csprojResolveAssemblyReference.cache
 D:\SoftUni\Fundamental level\Advanced C#\1.Arrays, Lists, Stacks, Queues\Домашно\Arrays, Lists, Stacks, Queues\3. CategorizeNumbers\obj\Debug\_3.CategorizeNumbers.exe
 D:\SoftUni\Fundamental level\Advanced C#\1.Arrays, Lists, Stacks, Queues\Домашно\Arrays, Lists, Stacks, Queues\3. CategorizeNumbers\obj\Debug\_3.CategorizeNumbers.pdb
+D:\SoftUni-Fundamentals\Advanced C#\1.Arrays, Lists, Stacks, Queues\Домашно\Arrays, Lists, Stacks, Queues\3. CategorizeNumbers\bin\Debug\_3.CategorizeNumbers.exe.config
+D:\SoftUni-Fundamentals\Advanced C#\1.Arrays, Lists, Stacks, Queues\Домашно\Arrays, Lists, Stacks, Queues\3. CategorizeNumbers\obj\Debug\_3.CategorizeNumbers.exe
+D:\SoftUni-Fundamentals\Advanced C#\1.Arrays, Lists, Stacks, Queues\Домашно\Arrays, Lists, Stacks, Queues\3. CategorizeNumbers\obj\Debug\_3.CategorizeNumbers.pdb
